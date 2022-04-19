@@ -1,0 +1,24 @@
+.nav{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    background-color: rosybrown;
+}
+
+.nav a{
+    padding: 15px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.nav a:hover {
+    color: blueviolet;
+}
+
+.nav li{
+    padding: 15px;
+    justify-content: left;
+    color:darkviolet;
+    text-transform: lowercase;
+}
